@@ -6,13 +6,12 @@
 
 
 .container {
-  border: 2px dashed red;
+  border: 10px double red;
   font-size: 1.5rem;
   margin: 1.5 em;
-
-
   padding: 1.5em;
-
+  outline: 5px solid purple;
+outline-offset: -20px;
 
 
 }
