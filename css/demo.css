@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -26,4 +26,29 @@ border: 2px solid black;
 outline: 2px solid red;
 outline-offset: 0.25rem;
 
+} */
+
+body{
+
+
+  padding: 10%;
+  font-size: 2rem;
+  color: peru;
+  font-family: sans-serif;
+
 }
+
+p{
+
+ text-indent: 2em;
+ text-align: justify;
+ line-height: 1.5;
+ word-spacing: 0em;
+ font-weight: 1000;
+}
+
+/* input, button {
+
+
+  font: inherit;
+} */
