@@ -1,1 +1,1 @@
-This is a combination of html and css 
+This is a combination of html and css with  internal css for better readability for each code
